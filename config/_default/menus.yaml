@@ -1,0 +1,26 @@
+leftnav:
+- identifier: 534c95e6-f48c-b558-62f0-a4b43ee31aa6
+  name: Syllabus
+  pageRef: /pages/syllabus/
+  weight: 10
+- identifier: 232fc155-f77e-7b98-62d8-4d389de47251
+  name: Pre-Pandemic Syllabus
+  pageRef: /pages/syllabus/original-syllabus
+  parent: 534c95e6-f48c-b558-62f0-a4b43ee31aa6
+  weight: 20
+- identifier: 32051d6a-731a-f89d-9797-be2aafd7b891
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 30
+- identifier: 7ab5c485-2253-798a-b1b6-aba790e8067e
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 40
+- identifier: 94f5017c-4f2e-17c7-9cb2-8797b5e7db13
+  name: Readings
+  pageRef: /pages/readings
+  weight: 50
+- identifier: cd4ff9f5-d886-36f8-5e19-cebe5a4a8d07
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 60

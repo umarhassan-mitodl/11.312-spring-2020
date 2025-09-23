@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Sociology",
+      "Community Development"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "legacy_uid": "f9d1b622-5290-1774-a218-547624d50713",
+  "instructors": {
+    "content": [
+      "897fe0f3-f801-8ef6-ec09-60e6c0cca89b"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "eaaea45e-acfd-f1ba-68a1-0aa708c9f002",
+    "website": "11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020"
+  },
+  "course_title": "Engaging Community: Models and Methods for Designers and Planners",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This course proposes that most cities have neither the infrastructure nor the processes in place to support the demographically complex public in fulfilling its role in democracy. Through this course, participants will learn a set of design principles for creating public engagement practices necessary for building inclusive civic infrastructure in cities. Participants will also have the opportunity to review and practice strategies, techniques, and methods for engaging communities in demographically complex settings.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.312",
+  "course_image_thumbnail": {
+    "content": "bae47b4a-1573-cd12-0719-d0707fbc7fb1",
+    "website": "11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020"
+  },
+  "learning_resource_types": [
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "site_uid": "eb467758-5372-4df5-92cb-0d0b109d6ce5",
+  "site_short_id": "11.312-spring-2020",
+  "site_url_path": "courses/11-312-engaging-community-models-and-methods-for-designers-and-planners-spring-2020",
+  "title": "Course Metadata"
+}
