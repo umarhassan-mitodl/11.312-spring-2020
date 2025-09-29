@@ -2,6 +2,8 @@
 content_type: page
 description: 'This section lists required readings from 11.312 Engaging Community:
   Models and Methods for Designers and Planners.'
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

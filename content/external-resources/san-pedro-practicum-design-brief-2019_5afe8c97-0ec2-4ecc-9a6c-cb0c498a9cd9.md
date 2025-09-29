@@ -2,6 +2,8 @@
 content_type: external-resource
 external_url: https://medium.com/wewhoengage/2019-san-pedro-practicum-report-330cb029b830
 has_external_license_warning: true
+hide_download: true
+hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: San Pedro Practicum design brief (2019)
