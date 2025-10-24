@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://medium.com/wewhoengage/2018-engaging-community-student-design-briefs-1d1191594983
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Mothers Out Front, 400 Years of Inequality, and Upgrade Cambridge design briefs

@@ -2,8 +2,6 @@
 content_type: external-resource
 external_url: https://drive.google.com/file/d/1n3ZTteht9ZUY4zafmTwvhq3XIcyzVT7p/view
 has_external_license_warning: true
-hide_download: true
-hide_download_original: null
 license: https://en.wikipedia.org/wiki/All_rights_reserved
 status: valid
 title: Poughkeepsie Children's Cabinet design brief draft (2020)
